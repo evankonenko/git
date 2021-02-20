@@ -1,0 +1,70 @@
+.btn {
+    display: inline-block;
+    padding: 10px 25px;
+    text-decoration: none;
+}
+
+.btn-accent {
+    background: orangered;
+    color: #FFFFFF;
+}
+
+.btn-accent::hover {
+    background: orangered;
+    color: #FFFFFF;
+}
+
+.btn-white {
+    background: #FFFFFF;
+    color: orangered;
+
+}
+
+.btn-white:hover {
+    color: red;
+    background: deepskyblue;
+}
+
+img {
+    width: 100%;
+}
+
+header {
+    background: #333;
+    padding: 48px 0;
+    color:#FAFAFA;
+}
+
+section{
+    padding: 48px 0;
+}
+
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+
+.section-two{
+    background: #f7f7f7;
+    color: black;
+}
+
+h1 {
+    font-size: 36px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+h2 {
+    font-size: 24px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+p {
+    font-size: 18px;
+    font-family: 'Ubuntu', sans-serif;
+    color: #555555
+}
+
+a {
+    font-family: 'Ubuntu', sans-serif;
+}
