@@ -5,18 +5,18 @@
 }
 
 .btn-accent {
-    background: orangered;
+    background: #e45826;
     color: #FFFFFF;
 }
 
 .btn-accent::hover {
-    background: orangered;
+    background: #e45826;
     color: #FFFFFF;
 }
 
 .btn-white {
     background: #FFFFFF;
-    color: orangered;
+    color: #e45826;
 
 }
 
@@ -30,9 +30,9 @@ img {
 }
 
 header {
-    background: #333;
+    background: #383e56;
     padding: 48px 0;
-    color:#FAFAFA;
+    color:#e6d5b8;
 }
 
 section{
