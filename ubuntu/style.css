@@ -1,3 +1,9 @@
+body {
+    margin: 0;
+    font-size: 18px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
 .btn {
     display: inline-block;
     padding: 10px 25px;
@@ -51,20 +57,12 @@ section{
 
 h1 {
     font-size: 36px;
-    font-family: 'Ubuntu', sans-serif;
 }
 
 h2 {
     font-size: 24px;
-    font-family: 'Ubuntu', sans-serif;
 }
 
 p {
-    font-size: 18px;
-    font-family: 'Ubuntu', sans-serif;
     color: #555555
-}
-
-a {
-    font-family: 'Ubuntu', sans-serif;
 }
